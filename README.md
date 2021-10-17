@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello from Satish 👋
 
-<!--
+
 **satishiyer31/satishiyer31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on building REACT and MERN portfolio and improving my JS skills. 
 - 🌱 I’m currently learning ... React, MERN stack, Node & Express JS.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Email me at satishiyer31@gmail.com
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... Love playing chess, meditations and heavy coffee drinker. Love to dream and explore. 
--->
+
